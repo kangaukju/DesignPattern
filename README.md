@@ -2,6 +2,7 @@
 study for design pattern
 
 < 커밋 규칙 사항 >
+
 1. 패턴 종류별 디렉토리 생성
 2. description 파일: 패턴 설명
 3. xxx.java, xxx.cpp ... : 예제 소스 코드
